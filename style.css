@@ -108,7 +108,7 @@ footer {
     display: grid;
     background-image: url(img/animation.webp);
     background-repeat: no-repeat;
-    background-size: cover !important;
+    background-size: cover;
     background-attachment: fixed;
     z-index: -1;
     
